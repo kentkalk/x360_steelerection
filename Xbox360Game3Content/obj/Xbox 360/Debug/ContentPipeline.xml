@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Spark.tga</Source>
+      <Name>texSpark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texSpark.xnb</Output>
+      <Time>2014-05-04T20:15:53.2921-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Ground.png</Source>
+      <Name>texGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texGround.xnb</Output>
+      <Time>2014-05-08T18:54:59.1081-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sky.png</Source>
+      <Name>texSky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texSky.xnb</Output>
+      <Time>2014-05-08T17:03:27.8298-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainmenu.png</Source>
+      <Name>texMainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texMainMenu.xnb</Output>
+      <Time>2014-05-11T23:24:13.7271-05:00</Time>
+    </Item>
+    <Item>
+      <Source>kdklogo.png</Source>
+      <Name>texKDKLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texKDKLogo.xnb</Output>
+      <Time>2014-05-09T23:08:26.2206-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menusbg.png</Source>
+      <Name>texMenusBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texMenusBG.xnb</Output>
+      <Time>2014-05-09T23:08:43.5056-05:00</Time>
+    </Item>
+    <Item>
+      <Source>deffont.spritefont</Source>
+      <Name>fntDefFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\fntDefFont.xnb</Output>
+      <Time>2014-05-09T20:59:54.4196-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>fntMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\fntMenuFont.xnb</Output>
+      <Time>2014-05-12T22:17:03.2307-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ButtonA.png</Source>
+      <Name>texButtonA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texButtonA.xnb</Output>
+      <Time>2014-05-11T14:01:09.0711-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ButtonB.png</Source>
+      <Name>texButtonB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texButtonB.xnb</Output>
+      <Time>2014-05-11T14:01:12.6601-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseBox.png</Source>
+      <Name>texPauseBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texPauseBox.xnb</Output>
+      <Time>2014-05-11T17:54:57.546-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ExitBox.png</Source>
+      <Name>texExitBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texExitBox.xnb</Output>
+      <Time>2014-05-11T17:45:44.051-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\redlong.png</Source>
+      <Name>Blocks\texRedLong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedLong.xnb</Output>
+      <Time>2014-05-11T20:38:25.3635-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\bluelong.png</Source>
+      <Name>Blocks\texBlueLong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBlueLong.xnb</Output>
+      <Time>2014-05-11T20:38:02.9895-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\greenlong.png</Source>
+      <Name>Blocks\texGreenLong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenLong.xnb</Output>
+      <Time>2014-05-11T20:38:09.5205-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\redbent.png</Source>
+      <Name>Blocks\texRedBent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedBent.xnb</Output>
+      <Time>2014-05-11T20:38:20.8885-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\greenbent.png</Source>
+      <Name>Blocks\texGreenBent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenBent.xnb</Output>
+      <Time>2014-05-11T20:38:14.7185-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\bluebent.png</Source>
+      <Name>Blocks\texBlueBent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBlueBent.xnb</Output>
+      <Time>2014-05-11T20:37:57.9665-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\bluepipe.png</Source>
+      <Name>Blocks\texBluePipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBluePipe.xnb</Output>
+      <Time>2014-05-11T20:40:15.1255-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\bluesquare.png</Source>
+      <Name>Blocks\texBlueSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBlueSquare.xnb</Output>
+      <Time>2014-05-11T20:40:18.8985-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\greenpipe.png</Source>
+      <Name>Blocks\texGreenPipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenPipe.xnb</Output>
+      <Time>2014-05-11T20:40:22.9505-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\greensquare.png</Source>
+      <Name>Blocks\texGreenSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenSquare.xnb</Output>
+      <Time>2014-05-11T20:40:26.6025-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\redpipe.png</Source>
+      <Name>Blocks\texRedPipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedPipe.xnb</Output>
+      <Time>2014-05-11T20:40:30.8905-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\redsquare.png</Source>
+      <Name>Blocks\texRedSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedSquare.xnb</Output>
+      <Time>2014-05-11T20:40:34.8395-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\bluet.png</Source>
+      <Name>Blocks\texBlueT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBlueT.xnb</Output>
+      <Time>2014-05-11T22:56:42.7701-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\greent.png</Source>
+      <Name>Blocks\texGreenT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenT.xnb</Output>
+      <Time>2014-05-11T22:56:47.0011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\redt.png</Source>
+      <Name>Blocks\texRedT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedT.xnb</Output>
+      <Time>2014-05-11T22:56:52.2471-05:00</Time>
+    </Item>
+    <Item>
+      <Source>topbar.png</Source>
+      <Name>texTopBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texTopBar.xnb</Output>
+      <Time>2014-05-12T22:05:18.0577-05:00</Time>
+    </Item>
+    <Item>
+      <Source>empty.png</Source>
+      <Name>texEmpty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texEmpty.xnb</Output>
+      <Time>2014-05-19T15:55:48.0075-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-04T11:35:13.4262-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

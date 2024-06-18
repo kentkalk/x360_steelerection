@@ -1,0 +1,2 @@
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3Content\obj\Xbox 360\Debug\SteelErectionContent.contentprojResolveAssemblyReference.cache
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3Content\obj\Xbox 360\Debug\SteelErectionContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteelErection", "Xbox360Game3\Xbox360Game3\SteelErection.csproj", "{E0534AB5-3F0F-42A4-AB07-93F5E83E2183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteelErectionContent", "Xbox360Game3\Xbox360Game3Content\SteelErectionContent.contentproj", "{9E694194-0608-4D49-B13A-8E073DD798BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0534AB5-3F0F-42A4-AB07-93F5E83E2183}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{E0534AB5-3F0F-42A4-AB07-93F5E83E2183}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{E0534AB5-3F0F-42A4-AB07-93F5E83E2183}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{E0534AB5-3F0F-42A4-AB07-93F5E83E2183}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{E0534AB5-3F0F-42A4-AB07-93F5E83E2183}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{E0534AB5-3F0F-42A4-AB07-93F5E83E2183}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{9E694194-0608-4D49-B13A-8E073DD798BB}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{9E694194-0608-4D49-B13A-8E073DD798BB}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

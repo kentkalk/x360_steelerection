@@ -1,0 +1,47 @@
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\SpriteFont1.xnb
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texRedLong.xnb
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\SteelErection.exe
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\SteelErection.pdb
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\SteelErection.exe
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\SteelErection.pdb
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texRedBent.xnb
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texSpark.xnb
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texGround.xnb
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\SteelErection.csprojResolveAssemblyReference.cache
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texRedLongTEMP.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texSpark.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texGround.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\SteelErection.exe
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\SteelErection.pdb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\SteelErection.csprojResolveAssemblyReference.cache
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\SteelErection.exe
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\SteelErection.pdb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texSky.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texMainMenu.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texKDKLogo.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texMenusBG.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\fntDefFont.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\fntMenuFont.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texButtonA.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texButtonB.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texPauseBox.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texExitBox.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedLong.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBlueLong.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenLong.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedBent.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenBent.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBlueBent.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBluePipe.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBlueSquare.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenPipe.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenSquare.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedPipe.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedSquare.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texBlueT.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texGreenT.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\Blocks\texRedT.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texTopBar.xnb
+C:\Users\Kent\SkyDrive\Documents\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\texEmpty.xnb

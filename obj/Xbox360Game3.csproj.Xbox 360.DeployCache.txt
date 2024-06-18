@@ -1,0 +1,13 @@
+cf24c38fc5bb4518a8332044d0c4e49a
+0
+Xbox 360
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\
+130436970420000000
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\GameThumbnail.png
+2014-05-04T16:40:25.4164000Z
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Xbox360Game3.exe
+2014-05-04T18:23:12.3393000Z
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\RedLong.xnb
+2014-05-04T17:22:56.6004000Z
+C:\Users\Kent\Documents\Visual Studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\SpriteFont1.xnb
+2014-05-04T17:57:04.5625000Z
